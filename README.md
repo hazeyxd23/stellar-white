@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stellar-pay — Level 1: White Belt
 
 A minimal, terminal-themed Stellar dApp for **RiseIn Level 1 — White Belt**. It connects to the
@@ -112,3 +113,7 @@ This app only talks to **Stellar Testnet**:
 ## License
 
 MIT — built for educational purposes as part of the RiseIn Stellar dApp course.
+=======
+# stellar-white
+My first working Stellar dApp. Learning the core fundamentals of Stellar development: wallets, balances, and transactions.
+>>>>>>> c6745fc11a422ea73fee3f9e257fb8d6a3d20d65
