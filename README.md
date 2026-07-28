@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # stellar-pay — Level 1: White Belt
 
 A minimal, terminal-themed Stellar dApp for **RiseIn Level 1 — White Belt**. It connects to the
