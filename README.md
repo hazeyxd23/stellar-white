@@ -113,6 +113,3 @@ This app only talks to **Stellar Testnet**:
 
 MIT — built for educational purposes as part of the RiseIn Stellar dApp course.
 =======
-# stellar-white
-My first working Stellar dApp. Learning the core fundamentals of Stellar development: wallets, balances, and transactions.
->>>>>>> c6745fc11a422ea73fee3f9e257fb8d6a3d20d65
